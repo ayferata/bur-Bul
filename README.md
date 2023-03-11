@@ -1,4 +1,4 @@
-# bur-Bul
+# burçBul
 import java.util.Scanner;
 
 public class Burclar {
